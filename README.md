@@ -5,3 +5,4 @@ To use them:
     git clone the git repository from github:psegynola
     cd into folder
     execute ./setup
+Check out other files for additional features
